@@ -1,5 +1,4 @@
-# my repositories 💻
-📝 All my repositories in one place
+# 📝 All my repositories in one place
 
 
 ## React
