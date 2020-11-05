@@ -5,7 +5,7 @@
 
 - [BurgerBuilder](https://github.com/merima98/BurgerBuilder) - The Burger Builder Application
 - [React.js-exercises-CRUD](https://github.com/merima98/React.js-exercises-CRUD) - Announcement application
-- [https://github.com/merima98/React-exercises](https://github.com/merima98/React-exercises) - Simple React application
+- [React-exercises](https://github.com/merima98/React-exercises) - Simple React application
 - [React.js-exercises](https://github.com/merima98/React.js-exercises) - React.js exercises
 
 ## Node
