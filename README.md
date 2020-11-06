@@ -28,6 +28,10 @@
 - [ASP.NET-CORE](https://github.com/merima98/ASP.NET-CORE) - Exam tasks from the subject 'Razvoj softvera I' (Software Development I) 
 - [BloggingPlatform](https://github.com/merima98/BloggingPlatform) - Backend solution for a blogging platform, which uses a custom REST API for requests: GET, POST, PUT, DELETE
 
+## Power BI
+
+- [BusinessIntelligence](https://github.com/merima98/BusinessIntelligence) - Created visualization in Power BI
+
 ## C++
 
 - [PRII](https://github.com/merima98/PRII) - Exam tasks from the subject 'Programiranje II' (Programming II) 
