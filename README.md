@@ -7,6 +7,7 @@
 - [React.js-exercises-CRUD](https://github.com/merima98/React.js-exercises-CRUD) - Announcement application
 - [React-exercises](https://github.com/merima98/React-exercises) - Simple React application
 - [React.js-exercises](https://github.com/merima98/React.js-exercises) - React.js exercises
+- [routing-react-suspense](https://github.com/merima98/routing-react-suspense) - Basics react lazy loading routes
 
 ## Node
 
