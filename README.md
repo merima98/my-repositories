@@ -10,6 +10,8 @@
 - [routing-react-suspense](https://github.com/merima98/routing-react-suspense) - Basics react lazy loading routes
 - [Counter](https://github.com/merima98/Counter.git) - An application that uses the basic functionality of redux
 - [webpack](https://github.com/merima98/webpack) - An application that contains work with the webpack from scratch
+- [nextjs](https://github.com/merima98/nextjs) - - An application that contains basics of nodejs
+
 ## Node
 
 - [confessions-server](https://github.com/merima98/confessions-server) - Simple RESTful mongoDB API
