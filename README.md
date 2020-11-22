@@ -3,6 +3,7 @@
 
 ## React
 
+- [confessions-client](https://github.com/merima98/confessions-client)
 - [BurgerBuilder](https://github.com/merima98/BurgerBuilder) - The Burger Builder Application
 - [React.js-exercises-CRUD](https://github.com/merima98/React.js-exercises-CRUD) - Announcement application
 - [React-exercises](https://github.com/merima98/React-exercises) - Simple React application
