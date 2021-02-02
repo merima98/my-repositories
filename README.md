@@ -3,7 +3,7 @@
 
 ## React
 
-- [confessions-client](https://github.com/merima98/confessions-client) - - A mutually supportive community where deeply emotional things you can't tell people you know can be told.
+- [confessions-client](https://github.com/merima98/confessions-client) - A mutually supportive community where deeply emotional things you can't tell people you know can be told.
 - [instagram-clone-client](https://github.com/merima98/instagram-clone-client) - worldgram is small, lean and pretty ✨ project-based-learning result heavily inspired by Instagram.
 - [gitstalk](https://github.com/merima98/gitstalk) - Discover who's upto what on Github.
 - [BurgerBuilder](https://github.com/merima98/BurgerBuilder) - The Burger Builder Application
